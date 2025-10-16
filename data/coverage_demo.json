@@ -1,0 +1,32 @@
+{
+  "PVS": {
+    "ticker": "PVS",
+    "name": "PTSC",
+    "keywords": ["PVS", "PTSC", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "dịch vụ kỹ thuật dầu khí", "điện gió ngoài khơi"]
+  },
+  "PVD": {
+    "ticker": "PVD",
+    "name": "PV Drilling",
+    "keywords": ["PVD", "PV Drilling", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "dịch vụ khoan", "hợp đồng khoan"]
+  },
+  "PLX": {
+    "ticker": "PLX",
+    "name": "Petrolimex",
+    "keywords": ["PLX", "Petrolimex", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "dự thảo", "nghị định", "giá xăng", "giá dầu", "E10", "E5", "RON95", "RON92"]
+  },
+  "OIL": {
+    "ticker": "OIL",
+    "name": "PV Oil",
+    "keywords": ["OIL", "PV Oil", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "dự thảo", "nghị định", "giá xăng", "giá dầu", "E10", "E5", "RON95", "RON92"]
+  },
+  "BSR": {
+    "ticker": "BSR",
+    "name": "Lọc hoá dầu Bình Sơn",
+    "keywords": ["BSR", "Lọc hoá dầu Bình Sơn", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "nâng cấp mở rộng", "bảo dưỡng", "đầu tư", "tăng vốn", "cổ tức"]
+  },
+  "GAS": {
+    "ticker": "GAS",
+    "name": "PV GAS",
+    "keywords": ["GAS", "PV GAS", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "LNG", "Thị Vải", "Sơn Mỹ", "Nhơn Trạch 3 & 4", "Dinh Cố", "Long Sơn", "mỏ khí", "giá khí"]
+  }
+}

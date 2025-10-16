@@ -1,0 +1,52 @@
+{
+  "POW": {
+    "ticker": "POW",
+    "name": "PV Power",
+    "keywords": ["POW", "PV Power", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "nhà máy điện", "Nhiệt điện Vũng Áng", "Nhiệt điện Cà Mau", "Nhiệt điện Nhơn Trạch 1", "Nhiệt điện Nhơn Trạch 2", "Nhơn Trạch 3 & 4", "LNG"]
+  },
+  "NT2": {
+    "ticker": "NT2",
+    "name": "Nhiệt điện Nhơn Trạch 2",
+    "keywords": ["NT2", "Nhiệt điện Nhơn Trạch 2", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "nhà máy điện", "POW", "PV Power", "Nhơn Trạch 3 & 4", "LNG"]
+  },
+  "PPC": {
+    "ticker": "PPC",
+    "name": "Nhiệt điện Phả Lại",
+    "keywords": ["PPC", "Nhiệt điện Phả Lại", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "EVN", "El Nino", "điện than", "cổ tức"]
+  },
+  "QTP": {
+    "ticker": "QTP",
+    "name": "Nhiệt điện Quảng Ninh",
+    "keywords": ["QTP", "Nhiệt điện Quảng Ninh", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "EVN","El Nino", "điện than", "cổ tức"]
+  },
+  "HND": {
+    "ticker": "HND",
+    "name": "Nhiệt điện Hải Phòng",
+    "keywords": ["HND", "Nhiệt điện Hải Phòng", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "EVN","El Nino", "điện than", "cổ tức"]
+  },
+  "REE": {
+    "ticker": "REE",
+    "name": "Cơ Điện Lạnh REE",
+    "keywords": ["REE", "Cơ Điện Lạnh REE", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "cơ điện lạnh", "bất động sản", "thuỷ điện", "điện gió", "điện mặt trời", "dự án", "đấu thầu", "cổ tức", "Victory Platinum"]
+  },
+  "PC1": {
+    "ticker": "PC1",
+    "name": "PCC1",
+    "keywords": ["PC1", "PCC1", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "xây lắp điện", "điện mặt trời", "điện gió", "thuỷ điện", "bất động sản", "xây lắp", "dự án", "cổ tức", "nội bộ", "lãnh đạo", "VIX", "Gelex"]
+  },
+  "HDG": {
+    "ticker": "HDG",
+    "name": "Hà Đô",
+    "keywords": ["HDG", "Hà Đô", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "bất động sản", "điện mặt trời", "điện gió", "thuỷ điện", "dự án", "cổ tức", "Hồng Phong 4", "SP Infra 1", "FIT", "Charm Villa", "dự án thí điểm", "Minh Long", "Greenlane"]
+  },
+  "GEG": {
+    "ticker": "GEG",
+    "name": "Điện Gia Lai GEG",
+    "keywords": ["GEG", "Điện Gia Lai GEG", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "điện mặt trời", "điện gió", "thuỷ điện", "dự án", "cổ tức", "Tân Phú Đông 1", "Đức Huệ 2", "Tân Thành", "TTC"]
+  },
+  "DPG": {
+    "ticker": "DPG",
+    "name": "Đạt Phương",
+    "keywords": ["DPG", "Đạt Phương", "dự án", "ký kết", "hợp đồng", "hợp tác", "thoả thuận", "liên danh", "kế hoạch", "điện mặt trời", "điện gió", "thuỷ điện", "dự án", "cổ tức", "Casamia Balanca"]
+  }
+} 
